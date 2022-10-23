@@ -1,0 +1,6 @@
+{
+  "host": "db",
+  "dbname": "datamining",
+  "user": "datamining",
+  "password": "data-mining-123"
+}
