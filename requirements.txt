@@ -5,6 +5,7 @@ pandas
 numpy
 matplotlib
 plotly
+pylast
 scipy
 scikit-learn
 
