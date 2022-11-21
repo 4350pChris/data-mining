@@ -8,4 +8,5 @@ plotly
 pylast
 scipy
 scikit-learn
+feedparser
 
