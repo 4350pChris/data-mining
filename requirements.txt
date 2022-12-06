@@ -9,4 +9,8 @@ pylast
 scipy
 scikit-learn
 feedparser
+requests
+Pillow
+tqdm
+seaborn
 
