@@ -13,4 +13,6 @@ requests
 Pillow
 tqdm
 seaborn
+scikit-image
+tensorflow
 
